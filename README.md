@@ -23,5 +23,9 @@
 初次使用本仓库，需要在电脑上安装Git，学习Git命令和使用Github。推荐使用VS Code编辑器，内置Git，非常方便使用。
 
 [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+
 [git连接github总结](https://segmentfault.com/a/1190000007466317)
+
 [如何在github上fork一个项目来贡献代码以及同步原作者的修改](http://www.cnblogs.com/rubylouvre/archive/2013/01/24/2874694.html)
+
+[掌握这几种 Markdown 语法你就够了](https://laravel-china.org/topics/621)
